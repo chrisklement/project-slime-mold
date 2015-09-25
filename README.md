@@ -4,6 +4,8 @@
 
 Normally one finds Physarum polycephalum in nature in a humid environment, on trees under the bark or in leaf litter in the forest, where they can feed on bacteria, fungal spores, and more. But we used the slime mold for an unpredictable experiment.
 
+![](images/slime_mold.png)
+
 The first step of the project was to think about an experiment with the slime mold and implement this. Then the fungus had to be grown in petri dishes in order to last for several attempts. As the fungus is quick in its growth and the experiment should be recorded for 2-3 days, a recording setup had to be tinkered and programmed.
 
 For the basis of my setup I used the following hardware:
