@@ -1,4 +1,4 @@
-#Project Slime Mold
+# Project Slime Mold
 
 ***First confrontation and encounter with computer vision, based on the behavior of slime mold and the first steps with Raspberry Pi 2.***
 
@@ -21,9 +21,9 @@ For the basis of my setup I used the following hardware:
 
 ![](images/record_setup.jpg)
 
-I used Crontab for the automatic recording of the experiment, that activates the LEDs for a short moment and takes a picture every minute. After the experiment, the images are joined together to form a short clip.
+I used Crontab for the automatic recording of the experiment. It activates the LEDs for a short moment and takes a picture every minute. After the experiment, the images are joined together to form a short clip.
 
-##The Experiment
+## The Experiment
 
 The mold is exposed on the side of the petri dish and it is to be observed:
 
@@ -31,17 +31,17 @@ The mold is exposed on the side of the petri dish and it is to be observed:
 * if he chooses the food by the lowest resistance
 * whether the slime mold works from left to right
 
-After several attempts, unfortunately I had to realize that the experiment has failed. However, I used the recovered material for the computer vision project with OpenCV.
+After several attempts, I unfortunately had to realize that the experiment has failed. However, I used the recovered material for the computer vision project with OpenCV.
 
 In the following you can see my final result:
 
 ![](images/cv_result.png)
 
 This project was created at the University of Applied Sciences Potsdam  
-Course: Input/Output - Fundamentals of process-oriented design  
+Course: Input/Output  
 Semester: 2015
 
-##License
+## License
 
 The MIT License (MIT)
 
